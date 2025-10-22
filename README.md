@@ -1,4 +1,4 @@
-# MeshSlapBase (MSB) by mayakovskiyy AKA steelberg, law.korsakoff
+# MeshSlapBase (MSB) by mayakovskiyy AKA steelberg
 
 
 ## Free to use. MSB is a code base for MSC Mod, which changes the model of the object you select to yours.
