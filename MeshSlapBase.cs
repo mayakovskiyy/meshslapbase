@@ -38,7 +38,7 @@ namespace MeshSlapBase
 
             MeshRenderer.Destroy(slap.GetComponent<MeshRenderer>()); // destroys the old mesh of slapping obj
 
-            this.ms_obj = slap.transform.Find("msb(Clone)").gameObject; // change name. it'll be like {your_prefab_name}(Clone)
+            this.ms_obj = slap.transform.Find("msb(Clone)").gameObject; // change name. it should be like {your_prefab_name}(Clone)
             this.ms_obj.AddComponent<MeshRenderer>(); // adding meshrenderer back
         }
     }
